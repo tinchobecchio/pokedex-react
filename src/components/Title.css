@@ -1,0 +1,10 @@
+h1 {
+    font-family: 'POKEMON LOGO FONT';
+    font-size: 4em;
+    font-weight: 200;
+    color: #ffcc03;
+    -webkit-text-stroke-width: 3px;
+    -webkit-text-stroke-color: #0384ee;
+    margin: 0;
+    text-shadow: black 3px 3px 5px;
+}

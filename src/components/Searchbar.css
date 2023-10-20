@@ -1,0 +1,26 @@
+
+.searchContainer {
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    margin-bottom: 40px;
+}
+
+#searchbar {
+    width: 60%;
+    padding: 10px;
+    border: none;
+    box-shadow: rgb(70, 69, 69) 5px 5px 10px;
+}
+
+span {
+    font-family:'Courier New', Courier, monospace;
+    font-size: 2em;
+    font-weight: bold;
+    color: #ffcc03;
+    text-shadow: black 3px 3px 3px;
+    margin-bottom: 5px;
+}

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'POKEMON LOGO FONT';
+    font-style: normal;
+    font-weight: normal;
+    src: local('POKEMON LOGO FONT'), url('pokemonSolid.ttf') format('truetype');
+}
+
+.container {
+    text-align: center;
+    background-color: rgb(99, 97, 97);
+    min-height: 100vh;
+}
